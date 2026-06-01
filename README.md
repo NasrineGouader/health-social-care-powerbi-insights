@@ -1,4 +1,4 @@
-#  Analytics PowerBI Insights: Hospital Discharge and Social Care Performance Analytics 2000 - 2024
+# PowerBI Insights: Hospital Discharge and Social Care Performance Analytics 2000 - 2024
 
 ## Overview Dashboard
 ![Overview](Images/overview.png)
