@@ -1,6 +1,8 @@
-#  PowerBI Insights: Hospital Discharge and Social Care Performance Analytics 2000 - 2024
-![Overview](Images/overview.png)
+#  Analytics PowerBI Insights: Hospital Discharge and Social Care Performance Analytics 2000 - 2024
 
+## Overview Dashboard
+![Overview](Images/overview.png)
+---
 ## Introduction
 
 This project analyses social care and hospital activity data for **8,000 service users** between **2020 and 2024**, combining information from hospital admissions, social care assessments, care packages, and demographics.
